@@ -46,9 +46,9 @@
 
   # Non Forge Modules
   mod 'profiles',
-    :git    => 'https://github.com/ppenafiel10/v_profiles.git',
+    :git    => 'https://github.com/ppenafiel10/vprofiles.git',
     :branch => 'development'
 
   mod 'roles',
-    :git    => 'https://github.com/ppenafiel10/v_roles.git',
+    :git    => 'https://github.com/ppenafiel10/vroles.git',
     :branch => 'development'
