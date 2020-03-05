@@ -46,9 +46,9 @@
 
   # Non Forge Modules
   mod 'profiles',
-    :git    => 'https://github.com/cvquesty/op_profiles.git',
+    :git    => 'https://github.com/ppenafiel10/op_profiles.git',
     :branch => 'production'
 
   mod 'roles',
-    :git    => 'https://github.com/cvquesty/op_roles.git',
+    :git    => 'https://github.com/ppenafiel10/op_roles.git',
     :branch => 'production'
